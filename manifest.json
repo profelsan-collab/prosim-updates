@@ -1,12 +1,16 @@
-
 {
   "schema": 1,
-  "version": "2026.10.1",
+  "version": "2026.10.11.001452",
   "profiles": [
     {
       "name": "KEC_59-3",
       "url": "https://raw.githubusercontent.com/profelsan-collab/prosim-updates/main/KEC_59-3.prosim",
       "sha256": "51ef97eca0f39769b32b56026ac5a02e9faedd8bf6abc31e1da050f7e343cefa"
+    },
+    {
+      "name": "Yeni_Arac",
+      "url": "https://raw.githubusercontent.com/profelsan-collab/prosim-updates/main/Yeni_Arac.prosim",
+      "sha256": "75d8a980bd61327bfe00371b852b9f6c5b3b71a7970b9fcd695352c3820b6f3b"
     }
   ]
 }
