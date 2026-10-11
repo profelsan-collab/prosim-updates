@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026.10.11.001905",
+  "version": "2026.10.11.004006",
   "profiles": [
     {
       "name": "KEC_59-3",
@@ -11,6 +11,11 @@
       "name": "123",
       "url": "https://raw.githubusercontent.com/profelsan-collab/prosim-updates/main/123.prosim",
       "sha256": "f22bcb7fffe86282eacceb834ac3daca8c0e18cdac00b293ca8e95dbd76e1dba"
+    },
+    {
+      "name": "5823",
+      "url": "https://raw.githubusercontent.com/profelsan-collab/prosim-updates/main/5823.prosim",
+      "sha256": "b89b3707ee889cd4a76f1f9758d45b84bea35ffd7a9225c3d44f03db4eddca7c"
     }
   ]
 }
